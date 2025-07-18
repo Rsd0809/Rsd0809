@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rishi sharma</h1>
+<h3 align="center">A passionate VLSI Engineer from India</h3>
 
-<!--
-**Rsd0809/Rsd0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rsd0809&label=Profile%20views&color=0e75b6&style=flat" alt="rsd0809" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Verilog, System Verilog, STA,UVM, Analog IC design ,Digital Electronics RTL Verification .**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **rishidadhich0809@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsd0809&show_icons=true&locale=en&layout=compact" alt="rsd0809" /></p>
+
